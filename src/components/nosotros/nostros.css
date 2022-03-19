@@ -1,0 +1,29 @@
+/**$*$********************************************************************
+*$*$                         SECCION NOSOTROS                            *
+*$*$**********************************************************************/
+#colFounder:hover {
+  transform: scale(1.03, 1.03);
+}
+
+#colResenaFounder {
+  background: #e6e4e4;
+}
+
+.empleado:hover {
+  transform: scale(1.03, 1.03);
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
